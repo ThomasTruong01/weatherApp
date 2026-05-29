@@ -1,7 +1,7 @@
 {
   "name": "weatherapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple weather app that shows current conditions for any location using the Dark Sky and Google Maps APIs.",
   "main": "index.js",
   "scripts": {
     "devStart": "nodemon server.js",
